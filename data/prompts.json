@@ -1,0 +1,29 @@
+{
+   "prompts": [
+      {
+         "id": 1,
+         "title": "What is Redux Toolkit?",
+         "description": "A brief introduction to Redux Toolkit and its core features."
+      },
+      {
+         "id": 2,
+         "title": "How to use React Hooks?",
+         "description": "Understanding React Hooks and their usage in functional components."
+      },
+      {
+         "id": 3,
+         "title": "Best practices for API calls in React",
+         "description": "Techniques and patterns for making API calls in React applications."
+      },
+      {
+         "id": 4,
+         "title": "State management in React",
+         "description": "Overview of state management solutions and patterns in React."
+      },
+      {
+         "id": 5,
+         "title": "Introduction to TypeScript with React",
+         "description": "Getting started with TypeScript in React applications."
+      }
+   ]
+}
